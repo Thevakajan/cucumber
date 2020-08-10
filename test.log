@@ -1,0 +1,10 @@
+2020-08-10 21:01:22.157 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >> Entered username : Admin
+2020-08-10 21:01:22.394 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >> Entered password : admin123
+2020-08-10 21:01:28.507 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >>  Clicked login button
+2020-08-10 21:01:28.509 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMDashboardPage >> Checking if dashboard displayed
+2020-08-10 21:01:46.889 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >> Entered username : Admin
+2020-08-10 21:01:47.037 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >> Entered password : admin124
+2020-08-10 21:01:48.343 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >>  Clicked login button
+2020-08-10 21:02:06.237 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >> Entered username : Admin
+2020-08-10 21:02:06.342 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >> Entered password : Admin123
+2020-08-10 21:02:07.864 [main] INFO  com.test.qa.pageobjects.pages.OrangeHRMLoginPage >>  Clicked login button
